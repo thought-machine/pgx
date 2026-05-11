@@ -1,6 +1,9 @@
 [![](https://godoc.org/github.com/jackc/pgx?status.svg)](https://pkg.go.dev/github.com/jackc/pgx/v4)
 [![Build Status](https://travis-ci.org/jackc/pgx.svg)](https://travis-ci.org/jackc/pgx)
 
+> [!IMPORTANT]
+> Maintenance Notice: This fork is maintained by Thought Machine specifically for addressing security vulnerabilities. It is not intended for feature development or general-purpose use. We do not accept external Pull Requests.
+
 ---
 
 This is the previous stable `v4` release. `v5` been released. `v4` will reach end-of-life on July 1, 2025. Only security
